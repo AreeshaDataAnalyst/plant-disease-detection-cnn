@@ -1,0 +1,8 @@
+{
+    "project": "PlantGuard AI",
+    "dataset": "PlantVillage Full",
+    "num_classes": 38,
+    "image_size": 160,
+    "test_accuracy": 0.9135915040969849,
+    "test_loss": 0.27433332800865173
+}
